@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamarti_Vaishnav</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&vCenter=true&lines=Welcome+to+my+Github.)](https://git.io/typing-svg)
+
 <h3 align="center">Coder | Blockchain Developer | Epistemophile</h3>
 
 <img align="right" src="https://github.com/vaishnav-192/vaishnav-192/blob/main/4380747.jpg" width="300" height="300" alt="vaishnav-192"/>
